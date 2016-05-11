@@ -6,37 +6,37 @@ Frameworks
 ----------
 
 Caffe (UC Berkeley)
-https://github.com/BVLC/caffe
-http://caffe.berkeleyvision.org/
+	https://github.com/BVLC/caffe
+	http://caffe.berkeleyvision.org/
 
-	Caffe on Spark (Yahoo)
+Caffe on Spark (Yahoo)
 	https://github.com/yahoo/CaffeOnSpark/wiki
 
 Torch
-https://github.com/torch/torch7
+	https://github.com/torch/torch7
 
 Theano
-http://deeplearning.net/software/theano/
+	http://deeplearning.net/software/theano/
 
 Tensor Flow (Google)
-https://www.tensorflow.org/
+	https://www.tensorflow.org/
 
 CNTK (Microsoft)
-https://github.com/Microsoft/CNTK
+	https://github.com/Microsoft/CNTK
 
 DIGITS (Nvidia)
-
+	https://github.com/NVIDIA/DIGITS
 
 DSSTNE ('Destiny' by AMZN)
-https://github.com/amznlabs/amazon-dsstne
+	https://github.com/amznlabs/amazon-dsstne
 
 
 Others
 ------
 
 OpenAI Gym
-https://gym.openai.com/docs
+	https://gym.openai.com/docs
 
 Scikit-learn
-http://scikit-learn.org/
+	http://scikit-learn.org/
 
