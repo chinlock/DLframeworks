@@ -1,4 +1,4 @@
-# DLframeworks
+# DL Frameworks
 #  Deep Learning frameworks out there
 
 This list is non exhaustive, just a number that I'm tracking.
@@ -30,7 +30,6 @@ DIGITS (Nvidia)
 
 DSSTNE ('Destiny' by AMZN)
 https://github.com/amznlabs/amazon-dsstne
-
 
 
 Others
