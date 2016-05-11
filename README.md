@@ -1,4 +1,3 @@
-# DL Frameworks
 #  Deep Learning frameworks out there
 
 This list is non exhaustive, just a number that I'm tracking.
